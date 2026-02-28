@@ -1,13 +1,14 @@
 # an-audio-video-player-page
 
-This project was originally created as part of FreeCodeCamp’s Responsive Web Design certification.  
-I have polished and customized the text content, headings, and paragraphs to make it more realistic and engaging.  
-The layout, links, and images remain the same as the original guided project.
+It's a simple HTML project built as part of FreeCodeCamp's Responsive Web Design curriculum.  
+This app displays a basic audio video player page with basic HTML structure and elements.
 
 ## Features
-- Simple HTML structure
-- Audio and video elements with controls
+- Displays a simple controllable audio video player page using HTML    tags
+- Includes headings, paragraphs, etc.
+- Demonstrates basic HTML structure and semantic elements
 
-## Purpose
-This project demonstrates my learning journey in HTML.  
-It shows how I can take a guided project and enhance it with my own words and creativity.
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/M-Kumar-Student/an-audio-video-player-page.git
